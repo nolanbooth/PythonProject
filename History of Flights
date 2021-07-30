@@ -1,0 +1,134 @@
+HISTORY OF FLIGHTS
+Note: Parenthesis comments are made by Tyler Chang
+
+flight 1 = bad landing
+flight 2 = bad landing
+flight 3 = bad landing
+flight 4 = better landing
+flight 5 = good landing, but failed roll and pitch
+flight 6 = good landing, but failed roll and light change
+flight 7 = failed roll and color change, would have had a good landing, but I put my hand underneath it and then it
+went crazy and I had to emergency shut it off.
+flight 8 = best landing so far, but still failed light change and roll. Light change removed. Changed roll
+flight 9 = Landed in the same spot it took off! roll slightly successful
+flight 10 = roll change was a failure, and it failed to land correctly, and was caught by some wires and thankfully
+didn't hit the ground.
+flight 11 = after takeoff, it pitched forward hard and the I had to recue it before it crash landed
+flight 12 =  MANNED! Tried to flip drone and failed, should have read instructions first before
+the attempt. Landing failed.
+flight 13 = AUTO! I tried to make the drone yaw, but it failed. But there was a successful landing
+flight 14 = MANNED! Tried to flip again, it was chaos, with about 6 drones in the air. Collided
+with napkin and crashed
+flight 15 = MANNED! Tried to flip again, failed. Drone crashed into a brick, and it was knocked
+into my backpack.
+flight 16 = MANNED!  Successful flip, but when the drone tried to land, it hit the side of the
+landing pad and crashed onto the floor
+flight 17 = AUTO FLIGHT WITHOUT CONTROLLER! The flip would have worked, but the drone was right up against the wall,
+so it fell and crashed
+flight 18  = Good takeoff, but then flew into the wall again and crashed. I think I fixed the roll?
+flight 19 = Nope, didn't fix the error
+flight 20 = NOPE, didn't fix the error even though I turned the drone the other way!
+flight 21 =  STILL NOT WORKING!! Maybe it will be better tomorrow. 21 Flights today!!
+
+DAY 2
+flight 22 = MANNED! Landed on a moving box! Box was less than 1x1 feet!
+flight 23 = MANNED! Killed by Tyler's foot
+flight 24 = MANNED! killed by flying into computer and crashing
+flight 25 = MANNED! landed successfully after dodging Tyler's hits.(NOOOOO)
+flight 26 = AUTO! This was a test flight (first of the day). After takeoff, automatically
+banked to the right and hit wall. After this is tried to do a flip and crashed.
+flight 27 = This time, the drone banked far to the left, and had to be rescued. I learned you have to put the trim
+after the takeoff.
+flight 28 = Banked to the left and backwards, had to be rescued.
+flight 29 = Banked to the right and forwards this time, had to be rescued
+flight 30 = Successful trim and landing! Time to try a flip
+flight 31 = Successful flip! had to be bonked a few times in the right direction, but landed perfectly!
+flight 32 = Interesting flight. It banked to far to the right, but managed to do a flip and land without crashing on
+Tyler's desk!! (sus)
+flight 33 = Successful trim, landing, and flip!
+flight 34 = Trying to roll the drone again, not sure what happened. Everything was fine, but I didn't see a roll.
+flight 35 = Drone doesn't seem to do much in a roll, I am going to read more.
+flight 36 = Tried to try roll & pitch, doesn't seem to do anything. Setting them to full power.
+flight 37 = Seems to pitch on landing, still no sign of roll
+flight 38 = accidentally ran the code and stopped it mid way, so drone had to be rescued.
+flight 39 = I finally saw the pitch, but it still is turning on landing and I have no idea why.
+
+DAY 3
+flight 40 = MANNED!  me and tyler were fighting with our drones and managed to hit without crashing! (sus)
+flight 41 = MANNED! I was trying to annoy tyler with my drone and then it crashed. (because yes)
+flight 42 = MANNED!  I landed my drone from about 6 meters away, a far landing successful!
+flight 43 = MANNED!  I tried to take off from the table but hit some box of tissues.
+flight 44 = MANNED!  drone emergency landed because it had no battery.
+flight 45 = MANNED!   I was trying to annoy tyler again with a drone.
+flight 46 = MANNED!  I was flying the drone sideways but it was too confusing.
+flight 47 = AUTO!  Everything successful, but landed on another student.
+flight 48 = MANNED!  flew drone over to tyler then landed on keyboard and crashed.
+flight 49 = MANNED!  Did the same thing and then crashed again.
+flight 50 = MANNED!  did the same thing again and did a good landing
+
+DAY 4
+flight 51 = MANNED! warm up flight, first one of the day!
+flight 52 = MANNED! flew the drone around the league classrooms, it was very fun!
+flight 53 = MANNED! Flew around the league again, and annoyed tyler with it. I also tried max speed and crashed into
+a wall
+flight 54 = MANNED! flew it around tyler playing chess and landed on a checkers
+flight 55 = MANNED! killed by tyler using a card
+flight 56 = MANNED! flew on max speed and failed landing
+flight 57 = MANNED! killed by Tyler again!
+flight 58 = AUTO! I had to bump the drone around so it wouldn't hit the wall, and it failed the landing, but had a
+successful flip!
+flight 59 = successful flip, and successful landing!
+flight 60 = Interesting flight. The flip worked, and the function I added for the drone to return kind of worked. The
+drone landed on my seat, but then fell off. So close! I am going to adjust a few things.
+flight 61 = the flip and return worked better this time. The drone landed on my foot, but didn't crash
+flight 62 = The drone worked, but it kind of failed the return. I think increasing the time will help maybe
+flight 63 = drone kind of worked, the return is giving me problems. This time, it turned right for some reason.
+flight 64 = might have gotten the negative and positive roll confused
+flight 65 = Kind of confusing flight. the roll has no effect on the flight. Also, it had a weird landing on my hand
+flight 66 = Went right into the wall, had to be rescued
+flight 67 = ??? the drone flew out of the room, and landed on a pile of stuff.
+flight 68 = I changed all the things, but it still went out of the door!!??
+flight 69 = aborted because I forgot to change the numbers
+flight 70 = Tyler aborted the mission for some reason.
+flight 71 = Drone still wants to go out of the door for some reason! had to be rescued after bumping into a window
+flight 72 = Drone didn't take off for some reason. Trying again...
+flight 73 = Flip was fine, but was kind of brushing up against the wall. Would have landed fine, but I decided to
+interfere because I thought it wouldn't.
+flight 74 = It looks like the drone was leaning to the right, and it crash landed
+flight 75 = I think that the drone does stuff randomly. What works in one flight doesn't work in another. it is
+very random. I think that I will never get it perfect, but that is okay. Landing was fine
+flight 76 = apparently it looks like fly_circle function doesn't work, because it made a "7" in midair, instead of
+a rounded shape. Landed on the Macintosh, and then crashed.
+flight 77 = Didn't do a circle again, and landed on Tyler's drone carrier
+flight 78 = didn't fly in a circle, and then landed on my face and crashed
+flight 79 = for some reason, this time, the drone kind of flew in a circle
+flight 80 = This is Tyler speaking, the drone did the flip but then ran into the (BLEEP) wall. Also Nolan tazed
+me
+flight 81 = I don't know why this doesn't work! it flew so low, and then it flipped into the trash can and crashed
+flight 82 = interesting flight, it flew into a wall, and then actually landed itself!
+flight 83 = this time, the drone flew to the exact same place and landed itself again, whilst scraping the wall
+flight 84 = the drone keeps flying to the wall, have no idea why, I changed everything!
+flight 85 = MANNED! I almost landed on tyler's truck. For reference, the truck's trailer is about the size of your
+palm. (lier!)
+flight 86 = MANNED! I was bullying tyler's drone and failed to land on the truck AGAIN! (nub)
+flight 87 = MANNED! I failed to land on the truck. Did a cool flip though
+flight 88 = MANNED! crash, failed to land on truck
+flight 89 = MANNED! I failed again.
+flight 90 = MANNED. this time I crashed into tyler's backpack and then into the truck (noob)
+flight 91 = MANNED! LAST TRY!! I was maybe about to do it, but then the drone ran out of battery.
+flight 92 = AUTO! was going to the same spot along the wall, so I rescued it.
+flight 93 = same result, I might try to fix the trim
+flight 94 = Trim fixed! there was a whole lot less drifting, and the drone crash landed on my truck!
+flight 95 = for some reason, the drone decided to get stuck in the ceiling, and then crash on another person's desk
+flight 96 = slammed into a wall again and had to get rescued.
+flight 97 = went to the same wall again and had to be rescued! I don't understand drones
+flight 98 = went to the same wall again. AGHAHGAHGAHGHAHGAHGHAGHA
+flight 99 = went the opposite direction this time. I am going to eye it and hope it turns out well for flight 100
+flight 100 = FLIGHT 100!! The drone started out well, then it started to go awry when it drifted forward. After
+that, it did the flip, and then it crashed into the wall, and fell down, but then revived itself! I was relived,
+but then it crashed into the side of a desk. That's too bad.
+
+SUMMARY OF FIRST 100 FLIGHTS:
+Overall, I learned a lot in these 100 flights. There were a lot of issues, and problems, but that is how you learn.
+I started off by crashing the drone manually, but now I can land it pretty reliably, and my coding skills in python
+have been sharpened. This was really fun!
